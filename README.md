@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**INSdevOPS/INSdevOPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# < INS >
 
-Here are some ideas to get you started:
+• Full Stack Developer •
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-707070?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/P5P37PJVB)
+
+</div>
+
+---
+
+## 🚀 About
+
+I design and build scalable systems, modern web platforms,  
+and production-ready automation infrastructures.
+
+From idea to deployment
+clean, efficient, reliable.
+
+---
+
+## 🔥 Core Focus
+
+- 🌐 Web Architecture
+- 🧠 Backend Engineering
+- 🎨 Clean UI Systems
+- 🎮 FiveM Development
+
+---
+
+## ⚙️ Tech Stack
+- JavaScript • TypeScript
+- Node.js
+- React • Vanilla
+- SQL • NoSQL
+- API Architecture
+- Lua (FiveM)
+
+---
+
+## 📈 Philosophy
+
+Insert ideas.  
+Overwrite limits.  
+Deploy vision.
+
+---
